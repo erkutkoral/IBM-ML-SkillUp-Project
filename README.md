@@ -24,7 +24,7 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Technologies/Libraries](#technologies/libraries)
+* [Technologies-Libraries](#technologies-libraries)
 * [Roadmap](#roadmap)
 * [Authors](#authors)
 
@@ -81,7 +81,7 @@ This dataset contains observations of weather metrics for each day from 2008 to 
 | RISK_MM       | Amount of rain tomorrow                               | Millimeters     | float  |
 | RainTomorrow  | If there is rain tomorrow                             | Yes/No          | float  |
 
-## Technologies/Libraries
+## Technologies-Libraries
 
 Python with Pandas and Scikit-Learn
 
