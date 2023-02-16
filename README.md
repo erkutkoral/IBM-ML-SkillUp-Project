@@ -24,7 +24,7 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [Technologies/Libraries](#Technologies/Libraries)
+* [Technologies/Libraries](#technologies/libraries)
 * [Roadmap](#roadmap)
 * [Authors](#authors)
 
