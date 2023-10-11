@@ -96,4 +96,4 @@ Python with Pandas and Scikit-Learn
 
 ## Authors
 
-* **Erkut Koral** - *Industrial Engineering Student* - [LınkedIn](https://www.linkedin.com/in/erkutkoral/)
+* **Erkut Koral** - [LınkedIn](https://www.linkedin.com/in/erkutkoral/)
